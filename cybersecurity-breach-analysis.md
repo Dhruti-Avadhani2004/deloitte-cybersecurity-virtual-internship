@@ -9,7 +9,7 @@ Daikibo Industrials deployed a real-time operational dashboard to monitor assemb
 - `shenzhen`
 - `berlin`
 
-A major news publication leaked sensitive information about an assembly line failure, and Macora suspected the dashboard had been breached.
+A major news publication leaked sensitive information about an assembly line failure, and Daikibo suspected the dashboard had been breached.
 
 ---
 
