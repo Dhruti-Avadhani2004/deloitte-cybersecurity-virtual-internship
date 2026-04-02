@@ -1,4 +1,6 @@
-  2021-06-26T00:00:48.000Z GET    "/api/factory/machine/status?factory=meiyo&machine=*" {authorizedUserId: "mdB7yD2dp1BFZPontHBQ1Z"}              401 (UNAUTHORIZED)     
+192.168.0.101:
+  TIME                            METHOD REQUEST                                                                                                         STATUS            
+2021-06-26T00:00:48.000Z GET    "/api/factory/machine/status?factory=meiyo&machine=*" {authorizedUserId: "mdB7yD2dp1BFZPontHBQ1Z"}              401 (UNAUTHORIZED)     
   2021-06-26T00:00:48.000Z GET    "/api/factory/machine/status?factory=seiko&machine=*" {authorizedUserId: "mdB7yD2dp1BFZPontHBQ1Z"}              401 (UNAUTHORIZED)     
   2021-06-26T00:00:48.000Z GET    "/api/factory/machine/status?factory=shenzhen&machine=*" {authorizedUserId: "mdB7yD2dp1BFZPontHBQ1Z"}           401 (UNAUTHORIZED)     
   2021-06-26T00:00:48.000Z GET    "/api/factory/machine/status?factory=berlin&machine=*" {authorizedUserId: "mdB7yD2dp1BFZPontHBQ1Z"}             401 (UNAUTHORIZED)     
