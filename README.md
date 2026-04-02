@@ -66,7 +66,7 @@ deloitte-cybersecurity-virtual-internship/
 ## Certificate
 
 Program completed via [Forage](https://www.theforage.com/) — Deloitte Australia Cybersecurity Virtual Experience Program.
-
+[View Certificate](./assets/deloitte_internship_completion_certificate.pdf)
 ---
 
 ## Disclaimer
